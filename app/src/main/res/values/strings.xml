@@ -1,3 +1,39 @@
 <resources>
     <string name="app_name">The Band Database</string>
+
+    <string-array name="bands">
+        <item>The Beatles</item>
+        <item>Nirvana</item>
+        <item>U2</item>
+        <item>U3</item>
+        <item>U4</item>
+        <item>U5</item>
+        <item>U6</item>
+        <item>U7</item>
+        <item>U8</item>
+        <item>U9</item>
+        <item>U10</item>
+        <item>U11</item>
+        <item>U12</item>
+        <item>U13</item>
+
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>An English rock band that formed in Liverpool in 1960.</item>
+        <item>An American rock band that formed in Washington in 1987.</item>
+        <item>An Irish rock band from Dublin that formed in 1976.</item>
+        <item>An not-Irish rock band from Dublin that formed in 1976.</item>
+        <item>Description for U4</item>
+        <item>Description for U5</item>
+        <item>Description for U6</item>
+        <item>Description for U7</item>
+        <item>Description for U8</item>
+        <item>Description for U9</item>
+        <item>Description for U10</item>
+        <item>Description for U11</item>
+        <item>Description for U12</item>
+        <item>Description for U13</item>
+
+    </string-array>
 </resources>
